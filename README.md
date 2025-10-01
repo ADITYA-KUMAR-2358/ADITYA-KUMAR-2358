@@ -4,7 +4,7 @@
 💻 Profession/Role: **B.Tech CSE Student | Software Developer**  
 🎯 Passionate about: **Full-Stack Development, AI/ML, Cloud Computing, and Open Source**  
 🌍 Currently based in: **Pune, India**  
-⚡ Fun Fact: *I can talk for hours about astrophysics, the cosmos, and football ⚽ (Visca Barça 🔵🔴)*  
+⚡ Fun Fact: *I can talk for hours about astrophysics, the cosmos, and football* ![Barça](https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg)  
 
 ---
 
@@ -65,8 +65,7 @@ Communication | Leadership | Consistent | Decision-Making
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-09848b292/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com) *(Under Development)*  
 
 ---
 
