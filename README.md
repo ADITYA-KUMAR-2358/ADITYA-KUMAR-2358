@@ -4,7 +4,7 @@
 💻 Profession/Role: **B.Tech CSE Student | Software Developer**  
 🎯 Passionate about: **Full-Stack Development, AI/ML, Cloud Computing, and Open Source**  
 🌍 Currently based in: **Pune, India**  
-⚡ Fun Fact: *I can talk for hours about astrophysics, the cosmos, and football* ![Barça](https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg)  
+⚡ Fun Fact: *I can talk for hours about astrophysics, the cosmos, and football*  ⚽  <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" alt="Barça" height="20px" style="vertical-align:middle"/>  
 
 ---
 
