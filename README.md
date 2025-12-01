@@ -68,8 +68,7 @@ Communication | Leadership | Consistent | Decision-Making
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://aditya-kumar-2358-portfolio.vercel.app)
 ---
 ## 🌱 Holopin Badges
-![An image of @adityakumar2358's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakumar2358)](https://holopin.io/@adityakumar2358)
-
+![An image of @adityakumar2358's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakumar2358)
 ---
 
 ## 📊 GitHub Stats  
