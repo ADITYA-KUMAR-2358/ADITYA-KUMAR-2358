@@ -97,6 +97,10 @@
 
 ---
 
+## 🌱 Holopin Badges ![An image of @adityakumar2358's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakumar2358) 
+
+---
+
 ## 📈 GitHub Stats  
 
 <p align="center">
