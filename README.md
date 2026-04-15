@@ -101,19 +101,30 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Analytics Dashboard
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADITYA-KUMAR-2358&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-KUMAR-2358&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADITYA-KUMAR-2358&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA-KUMAR-2358&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ADITYA-KUMAR-2358&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </p>
 
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYA-KUMAR-2358&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+### 🔥 Streak Statistics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ADITYA-KUMAR-2358&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA-KUMAR-2358&theme=tokyonight&hide_border=true"/>
 </p>
+
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/ADITYA-KUMAR-2358" alt="Contribution Calendar" width="100%"/>
 
 ---
-
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-09848b292/)  
