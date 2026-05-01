@@ -294,7 +294,7 @@ const aditya: Developer = {
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/70a5fd/ADITYA-KUMAR-2358" alt="Contribution Calendar" width="92%"/>
+<img src="https://raw.githubusercontent.com/ADITYA-KUMAR-2358/ADITYA-KUMAR-2358/output/snake.svg" alt="Snake animation" />
 
 </div>
 
