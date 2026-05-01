@@ -274,9 +274,9 @@ const aditya: Developer = {
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=ADITYA-KUMAR-2358&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&ring_color=70a5fd"/>
+<img height="180px" src="https://gh-readme-stats.vercel.app/api?username=ADITYA-KUMAR-2358&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6"/>
 &nbsp;
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-KUMAR-2358&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6"/>
+<img height="180px" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ADITYA-KUMAR-2358&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6"/>
 
 </div>
 
