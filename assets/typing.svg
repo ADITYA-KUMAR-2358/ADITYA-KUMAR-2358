@@ -1,0 +1,36 @@
+<svg width="900" height="50" viewBox="0 0 900 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .line { font-family: 'Courier New', Courier, monospace; font-size: 18px; font-weight: 600; fill: #70a5fd; }
+      .cursor { fill: #70a5fd; }
+
+      /* Line 1 appears, Line 2 fades in after, etc — pure CSS animation */
+      .t1 { animation: show 16s infinite; }
+      .t2 { animation: show 16s 4s infinite; opacity: 0; }
+      .t3 { animation: show 16s 8s infinite; opacity: 0; }
+      .t4 { animation: show 16s 12s infinite; opacity: 0; }
+
+      @keyframes show {
+        0%   { opacity: 0; }
+        5%   { opacity: 1; }
+        20%  { opacity: 1; }
+        25%  { opacity: 0; }
+        100% { opacity: 0; }
+      }
+
+      .blink { animation: blink 1s step-end infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="900" height="50" fill="#0d1117"/>
+
+  <!-- Typing lines -->
+  <text x="450" y="33" text-anchor="middle" class="line t1">🧠  Building AI systems that actually matter</text>
+  <text x="450" y="33" text-anchor="middle" class="line t2">⚡  RAG  |  LLMs  |  LangChain  |  Real-time Apps</text>
+  <text x="450" y="33" text-anchor="middle" class="line t3">🏆  Global Rank 632 — CodeChef Long Challenge</text>
+  <text x="450" y="33" text-anchor="middle" class="line t4">🌌  Astrophysics + Football + Code = My Universe</text>
+
+  <!-- Blinking cursor -->
+  <rect x="720" y="15" width="2" height="22" class="cursor blink"/>
+</svg>

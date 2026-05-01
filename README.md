@@ -1,21 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0a0e1a,70:111827,100:1a1b2e&height=280&section=header&text=Aditya%20Kumar&fontSize=80&fontColor=70a5fd&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Cloud%20%26%20Open%20Source%20Advocate&descSize=18&descAlignY=62&descColor=a9b1d6&stroke=70a5fd&strokeWidth=2"/>
+<img src="./assets/header.svg" alt="Aditya Kumar — Full Stack Developer & AI/ML Engineer" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=🧠+Building+AI+systems+that+actually+matter;⚡+RAG+%7C+LLMs+%7C+LangChain+%7C+Real-time+Apps;🏆+Global+Rank+632+%E2%80%94+CodeChef+Long+Challenge;🌌+Astrophysics+%2B+Football+%2B+Code+%3D+My+Universe" />
+<img src="./assets/typing.svg" alt="Aditya Kumar — rotating taglines" width="100%"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-              
-[![Profile Views](https://komarev.com/ghpvc/?username=ADITYA-KUMAR-2358&style=for-the-badge&color=0d1117&labelColor=1a1b2e&label=PROFILE+VIEWS&color=70a5fd)](https://github.com/ADITYA-KUMAR-2358)&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-70a5fd?style=for-the-badge&labelColor=1a1b2e)](https://adityak23.vercel.app)&nbsp;
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ADITYA-KUMAR-2358&style=for-the-badge&labelColor=1a1b2e&label=PROFILE+VIEWS&color=70a5fd)](https://github.com/ADITYA-KUMAR-2358)&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-adityak23.vercel.app-70a5fd?style=for-the-badge&labelColor=1a1b2e)](https://adityak23.vercel.app)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b2e)](https://www.linkedin.com/in/aditya-kumar-09848b292/)
 
 </div>
@@ -323,7 +321,7 @@ const aditya: Developer = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-09848b292/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-70a5fd?style=for-the-badge&logo=firefox&logoColor=white)](https://aditya-kumar-2358.vercel.app)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-adityak23.vercel.app-70a5fd?style=for-the-badge&logo=firefox&logoColor=white)](https://adityak23.vercel.app)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADITYA-KUMAR-2358)
 
 </div>
@@ -332,7 +330,7 @@ const aditya: Developer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:111827,100:0d1117&height=130&section=footer&fontColor=70a5fd"/>
+<img src="./assets/footer.svg" alt="" width="100%"/>
 
 **`Code with intent. Build with purpose. Ship with pride.`**
 
