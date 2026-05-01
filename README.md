@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-
+              
 [![Profile Views](https://komarev.com/ghpvc/?username=ADITYA-KUMAR-2358&style=for-the-badge&color=0d1117&labelColor=1a1b2e&label=PROFILE+VIEWS&color=70a5fd)](https://github.com/ADITYA-KUMAR-2358)&nbsp;
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-70a5fd?style=for-the-badge&labelColor=1a1b2e)](https://adityak23.vercel.app)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b2e)](https://www.linkedin.com/in/aditya-kumar-09848b292/)
