@@ -87,7 +87,7 @@ const aditya: Developer = {
 <tr>
 <td align="center">
 
-### 💯 300+
+### 💯 400+
 **DSA Problems**
 *across all platforms*
 
