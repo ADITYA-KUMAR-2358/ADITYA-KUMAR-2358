@@ -274,9 +274,9 @@ const aditya: Developer = {
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=ADITYA-KUMAR-2358&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&count_private=true"/>
+<img height="165px" src="https://github-stats-extended.vercel.app/api?username=ADITYA-KUMAR-2358&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&count_private=true"/>
 &nbsp;
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-KUMAR-2358&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6&langs_count=10"/>
+<img height="165px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ADITYA-KUMAR-2358&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6&langs_count=10"/>
 
 </div>
 
@@ -296,6 +296,7 @@ const aditya: Developer = {
 
 <div align="center">
 
+<!-- ⚠️ Replace this domain with YOUR OWN deployed instance — see note below -->
 <img src="https://github-profile-trophy.vercel.app/?username=ADITYA-KUMAR-2358&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </div>
@@ -321,6 +322,17 @@ const aditya: Developer = {
 > — **Ernest Hemingway**
 
 <br>
+
+</div>
+
+---
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
