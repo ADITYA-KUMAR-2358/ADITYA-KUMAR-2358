@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,100:70a5fd&height=200&section=header&text=Aditya%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI/ML%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="./assets/header.svg" alt="Aditya Kumar — Full Stack Developer & AI/ML Engineer" width="100%"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=70A5FDFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=Building+scalable+backends+%26+RAG+pipelines;AWS+Certified+Cloud+Architect;Competitive+Programmer+%7C+400%2B+DSA+problems;Open+to+Internships+%2F+Collabs+%2F+Open+Source" alt="Typing SVG" />
-</a>
+<img src="./assets/typing.svg" alt="Aditya Kumar — rotating taglines" width="100%"/>
 
 </div>
 
@@ -89,7 +87,7 @@ const aditya: Developer = {
 <tr>
 <td align="center">
 
-### 💯 400+
+### 💯 300+
 **DSA Problems**
 *across all platforms*
 
@@ -133,25 +131,19 @@ const aditya: Developer = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🌐 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🧠 AI / ML Stack
@@ -160,23 +152,15 @@ const aditya: Developer = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-`LLaMA` • `FAISS` • `RAG` • `Whisper` • `Ollama` • `LangGraph` • `Pinecone` • `Prompt Engineering`
+`LLaMA` &nbsp;•&nbsp; `FAISS` &nbsp;•&nbsp; `RAG` &nbsp;•&nbsp; `Whisper` &nbsp;•&nbsp; `Ollama` &nbsp;•&nbsp; `Prompt Engineering`
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -249,12 +233,6 @@ const aditya: Developer = {
 </tr>
 </table>
 
-<div align="center">
-
-[![View More Projects](https://img.shields.io/badge/View_More_Projects-70a5fd?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ADITYA-KUMAR-2358?tab=repositories)
-
-</div>
-
 ---
 
 ## 🏅 Competitive Programming
@@ -272,19 +250,39 @@ const aditya: Developer = {
 
 ---
 
+## 🌱 Holopin Badges
+
+<div align="center">
+
+[![Holopin Badges](https://holopin.me/adityakumar2358)](https://holopin.io/@adityakumar2358)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ADITYA-KUMAR-2358&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=ADITYA-KUMAR-2358&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6"/>
+<img height="180px" src="https://gh-readme-stats.vercel.app/api?username=ADITYA-KUMAR-2358&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6"/>
 &nbsp;
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-KUMAR-2358&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6"/>
+<img height="180px" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ADITYA-KUMAR-2358&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6"/>
 
 </div>
 
 <div align="center">
 
-<img width="68%" src="https://streak-stats.demolab.com/?user=ADITYA-KUMAR-2358&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=ff7b72&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=a9b1d6"/>
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA-KUMAR-2358&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=ff7b72&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=a9b1d6"/>
 
 </div>
 
@@ -296,25 +294,7 @@ const aditya: Developer = {
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ADITYA-KUMAR-2358&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/ADITYA-KUMAR-2358/ADITYA-KUMAR-2358/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🌱 Holopin Badges
-
-<div align="center">
-
-[![Holopin Badges](https://holopin.me/adityakumar2358)](https://holopin.io/@adityakumar2358)
 
 </div>
 
@@ -340,12 +320,9 @@ const aditya: Developer = {
 
 <div align="center">
 
-I'm always open to interesting conversations, collaborations, and opportunities — feel free to reach out.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-09848b292/)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-adityak23.vercel.app-70a5fd?style=for-the-badge&logo=firefox&logoColor=white)](https://adityak23.vercel.app)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADITYA-KUMAR-2358)&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADITYA-KUMAR-2358)
 
 </div>
 
@@ -353,7 +330,7 @@ I'm always open to interesting conversations, collaborations, and opportunities 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b2e&height=120&section=footer" width="100%"/>
+<img src="./assets/footer.svg" alt="" width="100%"/>
 
 **`Code with intent. Build with purpose. Ship with pride.`**
 
