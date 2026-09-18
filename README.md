@@ -274,15 +274,15 @@ const aditya: Developer = {
 
 <div align="center">
 
-<img height="180px" src="https://gh-readme-stats.vercel.app/api?username=ADITYA-KUMAR-2358&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6"/>
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=ADITYA-KUMAR-2358&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&count_private=true"/>
 &nbsp;
-<img height="180px" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ADITYA-KUMAR-2358&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6"/>
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-KUMAR-2358&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6&langs_count=10"/>
 
 </div>
 
 <div align="center">
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA-KUMAR-2358&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=ff7b72&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=a9b1d6"/>
+<img width="68%" src="https://streak-stats.demolab.com/?user=ADITYA-KUMAR-2358&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=ff7b72&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=a9b1d6"/>
 
 </div>
 
@@ -291,6 +291,16 @@ const aditya: Developer = {
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYA-KUMAR-2358&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&area_color=1a1b2e"/>
 
 </div>
+
+### 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ADITYA-KUMAR-2358&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+### 🐍 Contribution Snake
 
 <div align="center">
 
