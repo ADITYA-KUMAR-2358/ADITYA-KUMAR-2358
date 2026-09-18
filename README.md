@@ -260,17 +260,8 @@ const aditya: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ADITYA-KUMAR-2358&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
 
@@ -286,11 +277,6 @@ const aditya: Developer = {
 
 </div>
 
-<div align="center">
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYA-KUMAR-2358&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&area_color=1a1b2e"/>
-
-</div>
 
 ### 🏆 Trophy Case
 
