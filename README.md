@@ -282,7 +282,7 @@ const aditya: Developer = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ADITYA-KUMAR-2358/ADITYA-KUMAR-2358/master/metrics.achievements.svg" alt="GitHub Achievements" />
+[![trophy](https://github-trophies.vercel.app/?username=ADITYA-KUMAR-2358&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
