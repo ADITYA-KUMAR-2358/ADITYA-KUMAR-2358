@@ -296,8 +296,9 @@ const aditya: Developer = {
 
 <div align="center">
 
-<!-- ⚠️ Replace this domain with YOUR OWN deployed instance — see note below -->
-<img src="https://github-profile-trophy.vercel.app/?username=ADITYA-KUMAR-2358&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://raw.githubusercontent.com/ADITYA-KUMAR-2358/ADITYA-KUMAR-2358/master/metrics.achievements.svg" alt="GitHub Achievements" />
+
+</div>
 
 </div>
 
